@@ -1,6 +1,8 @@
 # tei_hn1_travail
-## Problématique 
-<p> Dans cette édition, vous trouverez différentes classifications. D'abord je souhaite baliser les refrains ainsi que les couplets. Deuxièmement, je souhaite balliser les diférents thèmes abordés dans les chansons.<p\>
-<p> encodage des thèmes avec "<rs>" 
+## Chansons québécoises  
+<p> Le but finale du projet est de d'encoder une dixaines de chansons. Celle-ci permettera aux personnes intéressées par les thématiques abordéees dans les chansons québécoises de les parcourir facilement en pouvant faire des recherches par thèmes nottament. <p\>
+
+<p> Cette édition est une édition TEI d'une dixaine d'anciennes chansons québécoises. L' encodage des thèmes avec des balises comme "<keywords>" permettera de facielement retrouver les thèmes abordés dans les chansons.<p\>
+ 
 
 
