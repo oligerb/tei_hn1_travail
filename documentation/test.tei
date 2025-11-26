@@ -1,6 +1,6 @@
  <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="schemas_etc/working.css" type="text/css"?>
-<?xml-model href="schemas_etc/tei_lite_customized/document.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="documentation/working.css" type="text/css"?>
+<?xml-model href="documentation/tei_lite_customized/document.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -15,8 +15,6 @@
       <body>
          <div type="chant">
             
-        
-
 
             <p> À la claire fontaine,
     
