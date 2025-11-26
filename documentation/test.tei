@@ -1,0 +1,119 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="schemas_etc/working.css" type="text/css"?>
+<?xml-model href="schemas_etc/tei_lite_customized/document.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Claire fontaine</title>
+            <respStmt>
+              <sourceDesc>
+            <p>Chants Québécois source:https://fdlq.crifuq.usherbrooke.ca/corpus/cf09e093-ad65-4978-8095-e708c410fd8d/documents/3aff9f04-c105-46d4-9633-93dcaf86d435#texteIntegral" Fonds de données linguistiques du Québec  </p>
+         </sourceDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chant">
+            
+        
+
+
+            <p> À la claire fontaine,
+    
+    M’en allant promener,
+    
+    J’ai trouvé l’eau si belle,
+    
+    Que je me suis baigné ;
+    
+    Il y a longtemps que je t’aime,
+    
+    Jamais je ne t’oublîrai.
+    
+    J’ai trouvé l’eau si belle
+    
+    Que je me suis baigné,
+    
+    Et c’est au pied d’un chêne,
+    
+    Que je m’suis reposé,
+    
+    Il y a longtemps etc.
+    
+    Et c’est au pied d’un chêne
+    
+    Que je m’suis reposé,
+    
+    Sur la plus haute branche
+    
+    Le rossignol chantait ;
+    
+    Il y a longtemps etc.
+    
+    Sur la plus haute branche
+    
+    Le rossignol chantait ;
+    
+    Chante, rossignol, chante
+    
+    Toi qui as le cœur gai ;
+    
+    Il y a longtemps etc.
+    
+    Chante, rossignol, chante
+    
+    Toi qui as le cœur gai,
+    
+    Tu as le cœur à rire,
+    
+    Moi, je l’ai à pleurer ;
+    
+    Il y a longtemps etc.
+    
+    Tu as le cœur à rire,
+    
+    Moi, je l’ai à pleurer,
+    
+    J’ai perdu ma maîtresse !
+    
+    Sans pouvoir la trouver
+    
+    Il y a longtemps etc.
+    
+    J’ai perdu ma maîtresse,
+    
+    Sans pouvoir la trouver ;
+    
+    Pour un bouquet de rose
+    
+    Que je lui refusai ;
+    
+    Il y a longtemps etc.
+    
+    Pour un bouquet de rose
+    
+    Que je lui refusai ;
+    
+    Je voudrais que la rose
+    
+    Fût encore au rosier,
+    
+    Il y longtemps etc.
+    
+    Je voudrais que la rose
+    
+    Fût encore au rosier ;
+    
+    Et que le rosier même
+    
+    Fût dans la mer jeté.
+    
+    Il y longtemps etc. </p>
+       
+         </div>
+      </body>
+   </text>
+</TEI>
+ 
+ 
+
