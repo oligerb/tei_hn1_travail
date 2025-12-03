@@ -11,3 +11,5 @@ Il s'agira aussi,
 ## Principes éditoriaux
 Droits d'auteur
 Nommage des chants
+
+### Ecodage TEI
