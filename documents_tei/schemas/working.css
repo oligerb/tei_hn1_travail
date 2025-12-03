@@ -1,15 +1,15 @@
 TEI {
-    background-color: #2b1f1f; 
-    color: #f2e9dc; 
-    font-family: "Times New Roman", serif;
+    background-color: #487041; 
+    color: #f1e6d8; 
+    font-family: "Times new roman", serif;
 }
 
 
 teiHeader {
-    background-color: #3c2a2a; 
+    background-color: #2f5129; 
     display: block;
     padding: 15px;
-    border-bottom: 2px solid #5b3d3d;
+    border-bottom: 2px solid #f6ebeb;
 }
 
 titleStmt {
@@ -27,7 +27,7 @@ title:after {
     display: block;
     font-size: 0.8em;
     margin-top: 5px;
-    color: #c9b8a6;
+    color: #dcd3ca;
 }
 
 
@@ -43,7 +43,7 @@ publicationStmt:after {
 publisher::after {
     display: inline;
     content: ": ";
-    color: #c9b8a6;
+    color: #dcd3ca;
 }
 
 
@@ -61,12 +61,12 @@ profileDesc {
 
 
 body {
-    background-color: #2b1f1f; 
-    color: #f2e9dc;
+    background-color: #487041; 
+    color: #ffffff;
     margin: 20pt;
     line-height: 1.5em;
     font-size: 1.05em;
-    font-family: "Times New Roman", serif;
+    font-family: "Junicode", serif;
     display: block;
 }
 
@@ -75,47 +75,25 @@ p {
     margin-bottom: 1em;
 }
 
-
-name[ana="person"] {
-    padding: 3px 6px;
-    background-color: #5e2f2f;
-    border-radius: 4px;
-    font-weight: bold;
-    color: #f4ebe2;
-}
-
-
-idno {
-    color: #a56b6b;
-    display: block;
-    font-size: 0.9em;
-    font-style: italic;
-    margin-top: 5px;
-}
-
-
 front {
     display: block;
     margin: 30px 0;
 }
 
-div[type="dedication"] {
+div[type="chant"] {
     font-style: italic;
-    text-align: center;
+    text-align: left;
     margin-bottom: 40px;
-    color: #d7cbc1;
+    color: #f3ebe6;
 }
 
-div[type="contents"] {
-    margin-bottom: 50px;
-}
 
 div[type="contents"] head {
     font-size: 1.4em;
     font-weight: bold;
     text-align: center;
     margin-bottom: 10px;
-    border-bottom: 1px solid #5b3d3d;
+    border-bottom: 1px solid #2f5129;
 }
 
 list {
@@ -124,19 +102,12 @@ list {
     width: fit-content;
 }
 
-item {
-    display: list-item;
-    list-style: square;
-    margin-left: 20px;
-    color: #eaddd1;
-}
 
-
-div[type="poem"] head {
+div[type="chant"] head {
     text-align: center;
     font-size: 1.8em;
     margin-bottom: 25px;
-    color: #d8c1b4;
+    color: #fcf3ee;
     font-weight: bold;
 }
 
@@ -152,43 +123,16 @@ l {
     margin-left: 30px;
 }
 
-
 back {
     display: block;
     margin-top: 60px;
     padding-top: 20px;
-    border-top: 1px solid #5b3d3d;
+    border-top: 1px solid #2f5129;
 }
 
 div[type="colophon"] {
     text-align: center;
     font-style: italic;
-    color: #c7b9ad;
+    color: #f3ebe6;
 }
 
-
-
-div[type="contents"] {
-  margin: 0 auto;
-  padding: 20px;
-  display: block;
-  text-align: center;
-}
-
-div[type="contents"] head {
-  font-size: 1.6em;
-  margin-bottom: 15px;
-  display: block;
-}
-
-
-div[type="contents"] list {
-  display: inline-block;
-  text-align: left;
-  margin-bottom: 30px;
-}
-
-div[type="contents"] item {
-  display: list-item;
-  margin-left: 20px;
-}
