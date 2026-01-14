@@ -55,11 +55,32 @@ sourceDesc::before {
 }
 
 
-profileDesc {
-    display: none;
+profileDesc persName {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+profilesDesc title {
+    display: block;
+    margin-left: 15px;
+    font-style: italic;
+    color:#e8ddd2;
 }
 
+profileDesc date {
+display: block;
+margin-left: 15px;
+color: #dcd3ca;
+}
 
+profileDesc note {
+    display: block;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-size: 0.9em;
+    color: #e8ddd2;
+}
 body {
     background-color: #487041; 
     color: #ffffff;
