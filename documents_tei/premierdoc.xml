@@ -28,10 +28,11 @@
         <persName xml:id="auteurCorpus">
           <forename>Joseph</forename>
           <surname>Lenoir-Rolland</surname>
+          <name>L'amateur</name>
         </persName>
         <title>La lyre canadienne : répertoire des meilleures chansons et romances du jour</title>
-        <date when="1847">19e siècle</date>
-        <note>Personne ayant collecté l'ensemble des chants dans un livre publié par la maison d'édition "Imprimerie de Wm. Cowan et fils, au Québec".</note>
+        <date when="1847">1847</date>
+        <ref>Personne ayant collecté l'ensemble des chants dans un livre publié par la maison d'édition "Imprimerie de Wm. Cowan et fils, au Québec".</ref>
       </creation>
     </profileDesc>
   </teiHeader>
@@ -90,7 +91,7 @@
       <l>Pour un bouquet de <seg ana="#NAT">rose</seg></l>
       <l>Que je lui refusai ;</l>
       <l>Je voudrais que la <seg ana="#NAT">rose</seg></l>
-      <l>Fût encore au rosier,</l>
+      <l>Fût encore au <seg ana="#NAT">rosier, </seg></l>
       <l>Il y longtemps etc.</l>
       <l>Je voudrais que la <seg ana="#NAT">rose</seg></l>
       <l>Fût encore au <seg ana="#NAT">rosier ;</seg></l>
@@ -101,28 +102,22 @@
 
   </div>
  </body>
-    <back>
-      <div type="colophon">
-        <p>Éditions TEI pour un cours d'humanités numériques</p>
-      </div>
-    </back>
-  </text>
+</text>
 
   <text xml:id="c2">
     <body>
       <div type="chant">
-       <opener></opener>
     <head>Nostalgie</head>
      <p>Ou la maladie du pays</p>
 <lg>
 <l>Vous m’avez dit : « À Paris, jeune pâtre,</l>
 <l>« Viens, suis-nous, cède à tes nobles penchans.</l>
 <l>« Notre or, nos soins, l’étude, le théâtre,</l>
-<l>« T’auront bientôt fait oublier les champs. »</l>
+<l>« T’auront bientôt fait oublier <seg ana="#NAT">les champs</seg>. »</l>
 <l>Je suis venu ; mais voyez mon visage.</l>
-<l>Sous tant de feux mon printemps s’est fané,</l>
+<l>Sous tant de feux mon <seg ana="#NAT">printemps</seg> s’est fané,</l>
 <l>Ah ! rendez-moi, rendez-moi mon village,</l>
-<l>Et la montagne où je suis né !</l>
+<l>Et la <seg ana="#NAT">montagne</seg>où je suis né !</l>
 <l>La fièvre court triste et froide en mes veines ;</l>
 <l>À vos désirs cependant j’obéis,</l>
 <l>Ces bals charmans où les femmes sont reines,</l>
@@ -135,39 +130,108 @@
 <l>Nos vieux récits et nos chants si grossiers.</l>
 <l>De la féerie égalant les merveilles,</l>
 <l>Votre opéra confondrait nos sorciers.</l>
-<l>Au saint des saints le ciel rendant hommage,</l>
+<l>Au saint des saints le <seg ana="#NAT">ciel </seg>rendant hommage,</l>
 <l>De vos concerts doit emprunter les sons.</l>
 <l>Ah ! rendez-moi, rendez-moi mon village,</l>
 <l>Et sa vallée et ses chansons !</l>
 <l>Nos toits obscurs, notre église qui croule,</l>
 <l>M’ont à moi-même inspiré des dédains.</l>
 <l>Des monumens j’admire ici la foule ;</l>
-<l>Surtout ce Louvre et ses pompeux jardins ;</l>
+<l>Surtout ce Louvre et ses pompeux <seg ana="#NAT">jardins </seg> ;</l>
 <l>Palais magique, on dirait un mirage</l>
-<l>Que le soleil colore à son coucher.</l>
+<l>Que le <seg ana="#NAT">soleil</seg> colore à son coucher.</l>
 <l>Ah ! rendez-moi, rendez-moi mon village.</l>
 <l>Et ses chaumes et son clocher !</l>
 <l>Convertissez le sauvage idolâtre ;</l>
 <l>Près de mourir il retourne à ses dieux.</l>
 <l>Là bas, mon chien m’attend auprès de l’âtre ;</l>
 <l>Ma mère en pleurs repense à nos adieux.</l>
-<l>J’ai vu cent fois l’avalanche et l’orage,</l>
+<l>J’ai vu cent fois <seg ana="#NAT">l’avalanche et l’orage</seg>,</l>
 <l>L’ours et les loups fondre sur mes brebis.</l>
 <l>Ah ! rendez-moi, rendez-moi mon village.</l>
 <l>Et la houlette et le pain bis !</l>
 <l>Qu’entends-je, ô ciel ! pour moi rempli d’alarmes :</l>
 <l>« Pars, dites-vous ; demain, pars au réveil.</l>
 <l>« C’est l’air natal qui sèchera tes larmes ;</l>
-<l>« Va refleurir à ton premier soleil. »</l>
+<l>« Va refleurir à ton premier <seg ana="#NAT">soleil</seg>. »</l>
 <l>Adieu, Paris, doux et brillant rivage,</l>
 <l>Où l’étranger reste comme enchaîné.</l>
 <l>Ah ! je revois, je revois mon village,</l>
-<l>Et la montagne où je suis né.</l>
+<l>Et la <seg ana="#NAT">montagne</seg> où je suis né.</l>
   </lg>
       </div>
     </body>
   </text>
+
+  <text xml:id="c3">
+    <body>
+      <div type="chant">
+    <head>Le naufrage au retour.</head>
+    <lg>
+<l>J’ai quitté pour ma belle patrie,</l>
+<l>Les climats où l’on trouve de l’or,</l>
+<l>Mais battu par les <seg ana="#NAT">vents</seg> en furie,</l>
+<l>Me voilà rejeté loin du port :</l>
+<l>C’en est fait sur la rive étrangère</l>
+<l>Il faudra consumer mes beaux jours</l>
+<l>Et mourir sans revoir mon vieux père</l>
+<l>Sans revoir mes fidèles <seg ana="#AMO">amours</seg>.</l>
+<l>Entraîné par <seg ana="#AMO">l'amour</seg>des richesses,</l>
+<l>Fallait-il renoncer au bonheur ;</l>
+<l>Mais pour prix d’une vive tendresse,</l>
+<l>Ne laisser qu’abandon, que douleur.</l>
+<l>C’en est fait, etc.</l>
+<l>Au pays, oui, j’en ai l’assurance,</l>
+<l>À toute heure on s’occupe de moi ;</l>
+<l>Mais je crains que la douce espérance</l>
+<l>Dans les cœurs n’ait fait place à l’effroi.</l>
+<l>C’en est fait, etc.</l>
+</lg>
+       </div>
+     </body>
+  </text>
+    <text xml:id="c4">
+    <body>
+      <div type="chant">
+    <head>Chant de l'ouvrier</head>
+    <lg>
+<l>Bon ouvrier, voici l’aurore,</l>
+<l>Qui te rappelle à tes travaux ;</l>
+<l>Ce matin, travaillons encore,</l>
+<l>Le soir sera pour le repos.</l>
+<l>Tout seul on s’ennuie à l’ouvrage,</l>
+<l>Pour l’abréger on le partage,</l>
+<l>À ton aide chacun viendra ;</l>
+<l>Du courage, à l’ouvrage,</l>
+<l>Les amis sont toujours là,</l>
+<l>Du courage, à l’ouvrage,</l>
+<l>Les amis sont toujours là, (bis.)</l>
+<l>Bon ouvrier, c’est le dimanche,</l>
+<l>Que tout chagrin est oublié ;</l>
+<l>Quelle gaîté, naïve et franche,</l>
+<l>Trinquons un verre à l’amitié.</l>
+<l>Boire seul est un outrage,</l>
+<l>En bon compagnon l’on partage</l>
+<l>Cette bouteille que voilà.</l>
+<l>Du courage, etc.</l>
+<l>Bon ouvrier, quand la tendresse,</l>
+<l>De l’hymen te fait une loi ;</l>
+<l>Quand à ta gentille maîtresse,</l>
+<l>Tu donnes ton cœur et ta foi.</l>
+<l>Prends garde, ne sois pas volage ;</l>
+<l>Car si tu négliges ton ouvrage,</l>
+<l>Un autre te remplacera.</l>
+<l>Du courage, etc.</l>
+    </lg>
+      </div>
+      </body>
+      </text>
   </group>
+    <back>
+      <div type="colophon">
+        <p>Éditions TEI pour un cours d'humanités numériques</p>
+      </div>
+    </back>
   </text>
  </TEI>
    
