@@ -226,7 +226,179 @@
       </div>
       </body>
       </text>
-  </group>
+<text xml:id="c5">
+ <body>
+  <div type="chant">
+<head>Le soldat Suisse</head>
+  <lg>
+<l>Le soldat suisse à sa patrie</l>
+<l>Sait conserver toujours son cœur ;</l>
+<l>Sur les rochers de l’Helvétie</l>
+<l>La liberté fait son bonheur.</l>
+<l>Mais il entend des cris d’alarmes,</l>
+<l>Il voit couler le sang chrétien ;</l>
+<l>Le soldat suisse a pris ses armes :</l>
+<l>Le sort des Grecs sera le sien.</l>
+<l>Malheureux Grecs ! à l’esclavage</l>
+<l>On va livrer tes enfants ;</l>
+<l>Des Turcs on excite la rage,</l>
+<l>On étouffe vos cris touchants.</l>
+<l>Ah ! qui pourra sécher vos larmes ?</l>
+<l>Qui sauvera le nom chrétien ?</l>
+<l>Enfant de Tell, reprends les armes :</l>
+<l>Le sort des Grecs sera le tien.</l>
+   </lg>
+  </div>
+ </body>
+</text>
+<text xml:id="c6">
+ <body>
+  <div type="chant">
+<head>Le départ pour l'exil</head>
+<p>Chant Canadien.</p>
+<lg>
+<l>« Adieu, adieu ! d’une cloche sonore</l>
+<l>« Les tintements annoncent le départ.</l>
+<l>« Adieu, adieu ! nous espérons encore</l>
+<l>« De vous revoir ici, ou quelque part,</l>
+<l>« Chers compagnons des jours de notre enfance,</l>
+<l>« Nous vous quittons en vous serrant la main,</l>
+<l>« Le cœur navré, plein de reconnaissance :</l>
+<l>« Adieu, adieu ! pensez à nous demain ! »</l>
+<l>Vous allez, où ? dans une île lointaine ?</l>
+<l>Pour bien du temps ? – « Nous ne le savons pas. »</l>
+<l>– Qu’y ferez-vous ? – « Nous subirons la peine</l>
+<l>« D’être en pays où vivent les forçats ;</l>
+<l>« Nous ne savons tout ce qu’il faut attendre,</l>
+<l>« Dans ce recoin, terreur du genre humain,</l>
+<l>« Mais nous savons toujours qu’il faut s’y rendre !</l>
+<l>« Adieu, adieu ! pensez à nous demain ! »</l>
+<l>Pauvres proscrits, que leur sort est funeste !</l>
+<l>Leur bras vengeur de chaînes tout chargé !</l>
+<l>L’exil, l’exil, voilà ce que leur reste,</l>
+<l>De leurs efforts pour notre liberté !</l>
+<l>Ô roi dos rois, adoucis leurs misères !</l>
+<l>Ils étaient purs ! veille sur leur destin ;</l>
+<l>Prends pitié d’eux ; ils sont toujours nos frères</l>
+<l>Adieu, adieu ! qu’ils reviennent demain !</l>
+   </lg>
+  </div>
+  </body>
+  </text>
+  <text xml:id="c7">
+ <body>
+  <div type="chant">
+<head>La cloche des ouvriers</head>
+<lg>
+<l>J’entends, ami, la cloche qui résonne,</l>
+<l>Pour avertir l’ouvrier matinal ;</l>
+<l>Du travail c’est l’heure (bis) qui sonne,} Bis.</l>
+<l>Obéissons (bis) à ce signal, (bis.)} Bis.</l>
+<l>Dès le matin, pleins d’ardeur et de zèle,</l>
+<l>Nous nous rendons gaîment aux ateliers ;</l>
+<l>Le soir, la cloche (bis) nous rappelle,} Bis.</l>
+<l>Et nous rentrons (bis) dans nos foyers. ( bis.)} Bis.</l>
+<l>Elle a sonné ces jours de notre vie,</l>
+<l>Dont la mémoire est sacrée en tout temps ;</l>
+<l>L’heure d’une union (bis) chérie,} Bis</l>
+<l>La naissance (bis) de nos enfants. ( bis.)} Bis.</l>
+<l>Un jour aussi, cette cloche sonore</l>
+<l>Annoncera la fin de tous nos maux,</l>
+<l>Mais elle sera (bis) douce encore} Bis.</l>
+<l>Comme en sonnant (bis) pour le repos. ( bis.)} Bis.</l>
+</lg>
+</div>
+</body>
+</text>
+<text xml:id="c8">
+ <body>
+  <div type="chant">
+<head>Le Rossignol</head>
+<lg>
+<l>Doux rossignol, reste au séjour,} Bis.</l>
+<l>Où tes petits ont pris le jour ;} Bis.</l>
+<l>Enchante-nous par ton ramage,</l>
+<l>Mon cœur, instruit dans ton langage,</l>
+<l>Avec l’écho, redit <seg ana="#AMO">amour</seg>. ( bis.)</l>
+<l>De tes concerts mélodieux} Bis.</l>
+<l>Tu priveras trop tôt ces lieux ;} Bis.</l>
+<l>Quand <seg ana="#NAT">l’automne</seg> flétrit leurs charmes,</l>
+<l>Quand tu nous fuis, c’est par mes larmes</l>
+<l>Que je réponds à tes adieux. ( bis.)</l>
+<l>Mais aussitôt que le <seg ana="#NAT">printemps</seg>} Bis.</l>
+<l>Aura rendu <seg ana="#NAT">la fleur aux champs</seg>;} Bis.</l>
+<l>Ah ! sois fidèle à reparaître,</l>
+<l>Reviens au <seg ana="#NAT">bois</seg> qui te vit naître</l>
+<l>Redire encor tes doux accents. (bis.)</l>
+</lg>
+</div>
+</body>
+</text>
+<text xml:id="c9">
+ <body>
+  <div type="chant">
+<head>Loin de mon pays</head>
+<lg>
+<l>Faut-il que déjà de ma vie</l>
+<l>Les plus beaux jours soient écoulés !</l>
+<l>Seul ici ! loin de ma patrie !</l>
+<l>Loin de ces lieux si fortunés</l>
+<l>Où, simple enfant, je fesais paître</l>
+<l>Ce troupeau qu’il fallut quitter !</l>
+<l>Mais sur les flots voici paraître} Bis.</l>
+<l>Le vaisseau qui doit m’emporter} Bis.</l>
+<l>Si loin de toi ! tendre Lucie,</l>
+<l>Toujours rêvant à tes attraits,</l>
+<l>Du bonheur de te voir, amie,</l>
+<l>Serais-je privé pour jamais ?</l>
+<l>Sous l’humble toit qui m’a vu naître,</l>
+<l>Pourrais-je ne plus habiter ?</l>
+<l>Mais sur les, etc.</l>
+<l>Le désespoir, <seg ana="#AMO">l’amour</seg>, Lucie,</l>
+<l>Luttaient dans mon <seg ana="#AMO">cœur</seg> accablé ;</l>
+<l>Pour toi, toi seule, ô mon amie,</l>
+<l><seg ana="#AMO">L’amour</seg>à mon âme a parlé.</l>
+<l>De ma douleur n’étant plus maître,</l>
+<l>Dans la <seg ana="#NAT">mer</seg> j’allais m’élancer…</l>
+<l>Mais sur les, etc.</l>
+</lg>
+</div>
+</body>
+</text>
+<text xml:id="c10">
+ <body>
+  <div type="chant">
+<head>L'orage</head>
+<lg>
+<l>Lise, ma douce amie,</l>
+<l>Vois donc le <seg ana="#NAT">temps</seg> qu’il fait ;</l>
+<l>Déjà tombe <seg ana="#NAT">la pluie</seg>,</l>
+<l>Rentrons dans ce châlet.</l>
+<l>Regarde ce <seg ana="#NAT">nuage</seg>,</l>
+<l>Il est tout chargé <seg ana="#NAT">d'eau</seg> ;</l>
+<l>Laissons passer <seg ana="#NAT">l'orage</seg>, (bis.)</l>
+<l><seg ana="#NAT">Le temps</seg> deviendra beau. (ter.)</l>
+<l>Lise, ma douce amie,</l>
+<l>Toi qui sais tant charmer,</l>
+<l>Que j’aimerais la vie,</l>
+<l>Si tu voulais <seg ana="#AMO">m’aimer</seg>.</l>
+<l>Car si ta foi me jure</l>
+<l><seg ana="#AMO">Amour</seg> jusqu’au tombeau,</l>
+<l>Pour moi, je te l’assure, (bis.)</l>
+<l><seg ana="#NAT">Le temps</seg>deviendra beau. ( ter.)</l>
+<l>Lise, ma douce amie,</l>
+<l>Un<seg ana="#AMO">baiser</seg> seulement,</l>
+<l>Un<seg ana="#AMO">baiser</seg>, je t’en prie,</l>
+<l>À ton<seg ana="#AMO">fidèle amant</seg>.</l>
+<l>Non, non, dit la bergère,</l>
+<l>Car on trompe au hameau ;</l>
+<l>Adieu, près de ma mère, (bis.)</l>
+<l><seg ana="#NAT">Le temps</seg> deviendra beau. (ter.)</l>
+</lg>
+</div>
+</body>
+</text>
+</group>
     <back>
       <div type="colophon">
         <p>Éditions TEI pour un cours d'humanités numériques</p>
