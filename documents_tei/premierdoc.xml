@@ -184,7 +184,7 @@
 <l>Au pays, oui, j’en ai l’assurance,</l>
 <l>À toute heure on s’occupe de moi ;</l>
 <l>Mais je crains que la douce espérance</l>
-<l>Dans les cœurs n’ait fait place à l’effroi.</l>
+<l>Dans <seg ana="#AMO">les cœurs</seg> n’ait fait place à l’effroi.</l>
 <l>C’en est fait, etc.</l>
 </lg>
        </div>
@@ -203,13 +203,13 @@
 <l>Pour l’abréger on le partage,</l>
 <l>À ton aide chacun viendra ;</l>
 <l>Du courage, à l’ouvrage,</l>
-<l>Les amis sont toujours là,</l>
+<l><seg ana="#AMO">Les amis sont toujours là,</seg></l>
 <l>Du courage, à l’ouvrage,</l>
 <l>Les amis sont toujours là, (bis.)</l>
 <l>Bon ouvrier, c’est le dimanche,</l>
 <l>Que tout chagrin est oublié ;</l>
 <l>Quelle gaîté, naïve et franche,</l>
-<l>Trinquons un verre à l’amitié.</l>
+<l>Trinquons un verre <seg ana="#AMO">à l’amitié.</seg></l>
 <l>Boire seul est un outrage,</l>
 <l>En bon compagnon l’on partage</l>
 <l>Cette bouteille que voilà.</l>
@@ -217,7 +217,7 @@
 <l>Bon ouvrier, quand la tendresse,</l>
 <l>De l’hymen te fait une loi ;</l>
 <l>Quand à ta gentille maîtresse,</l>
-<l>Tu donnes ton cœur et ta foi.</l>
+<l><seg ana="#AMO">Tu donnes ton cœur et ta foi.</seg></l>
 <l>Prends garde, ne sois pas volage ;</l>
 <l>Car si tu négliges ton ouvrage,</l>
 <l>Un autre te remplacera.</l>
@@ -232,7 +232,7 @@
 <head>Le soldat Suisse</head>
   <lg>
 <l>Le soldat suisse à sa patrie</l>
-<l>Sait conserver toujours son cœur ;</l>
+<l>Sait conserver toujours son <seg ana="#AMO">cœur</seg>;</l>
 <l>Sur les rochers de l’Helvétie</l>
 <l>La liberté fait son bonheur.</l>
 <l>Mais il entend des cris d’alarmes,</l>
@@ -263,7 +263,7 @@
 <l>« De vous revoir ici, ou quelque part,</l>
 <l>« Chers compagnons des jours de notre enfance,</l>
 <l>« Nous vous quittons en vous serrant la main,</l>
-<l>« Le cœur navré, plein de reconnaissance :</l>
+<l>« Le <seg ana="#AMO">cœur</seg> navré, plein de reconnaissance :</l>
 <l>« Adieu, adieu ! pensez à nous demain ! »</l>
 <l>Vous allez, où ? dans une île lointaine ?</l>
 <l>Pour bien du temps ? – « Nous ne le savons pas. »</l>
