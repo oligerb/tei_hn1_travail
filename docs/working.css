@@ -1,0 +1,159 @@
+TEI {
+    background-color: #487041; 
+    color: #f1e6d8; 
+    font-family: "Times new roman", serif;
+}
+
+
+teiHeader {
+    background-color: #2f5129; 
+    display: block;
+    padding: 15px;
+    border-bottom: 2px solid #f6ebeb;
+}
+
+titleStmt {
+    display: block;
+}
+title {
+    display: block;
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+}
+
+title:after {
+    content: " — Édition numérique —";
+    display: block;
+    font-size: 0.8em;
+    margin-top: 5px;
+    color: #dcd3ca;
+}
+
+
+publicationStmt {
+    display: inline;
+}
+
+publicationStmt:after {
+    content:"\a";
+    white-space: pre;
+}
+
+publisher::after {
+    display: inline;
+    content: ": ";
+    color: #dcd3ca;
+}
+
+
+sourceDesc::before {
+    content: "Source : ";
+    display: inline;
+    font-style: italic;
+    color: #b8a89b;
+}
+
+
+profileDesc persName {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+profilesDesc title {
+    display: block;
+    margin-left: 15px;
+    font-style: italic;
+    color:#e8ddd2;
+}
+
+profileDesc date {
+display: block;
+margin-left: 15px;
+color: #dcd3ca;
+}
+
+profileDesc note {
+    display: block;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-size: 0.9em;
+    color: #e8ddd2;
+}
+body {
+    background-color: #487041; 
+    color: #ffffff;
+    margin: 20pt;
+    line-height: 1.5em;
+    font-size: 1.05em;
+    font-family: "Junicode", serif;
+    display: block;
+}
+
+p {
+    display: block;
+    margin-bottom: 1em;
+}
+
+front {
+    display: block;
+    margin: 30px 0;
+}
+
+div[type="chant"] {
+    font-style: italic;
+    text-align: left;
+    margin-bottom: 40px;
+    color: #f3ebe6;
+}
+
+
+div[type="contents"] head {
+    font-size: 1.4em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #2f5129;
+}
+
+list {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+
+div[type="chant"] head {
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 25px;
+    color: #fcf3ee;
+    font-weight: bold;
+}
+
+
+lg {
+    display: block;
+    margin-bottom: 18px;
+}
+
+
+l {
+    display: block;
+    margin-left: 30px;
+}
+
+back {
+    display: block;
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #2f5129;
+}
+
+div[type="colophon"] {
+    text-align: center;
+    font-style: italic;
+    color: #f3ebe6;
+}
+

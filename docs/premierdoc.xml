@@ -1,4 +1,4 @@
-<?xml-stylesheet href="schemas/working.css" type="text/css"?><?xml-model href="schemas/document.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?><TEI>
+<?xml-stylesheet href="working.css" type="text/css"?><?xml-model href="schemas/document.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?><TEI>
   <teiHeader>
     <fileDesc>
       <titleStmt>
