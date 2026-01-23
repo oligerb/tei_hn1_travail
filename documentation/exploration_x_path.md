@@ -1,4 +1,4 @@
-Sur cette page, vous trouvez quelques requêtes X path effectuées dans le logiciel BaseX. ꞓelles-ci m'ont permise de créer l'index html. 
+Sur cette page, vous trouvez quelques requêtes X path effectuées dans le logiciel BaseX. Celles-ci m'ont permise de créer l'index html. 
 
 # Pour sortir les thèmes utilisés:
 
