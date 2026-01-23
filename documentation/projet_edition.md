@@ -10,9 +10,5 @@ Le finalité de l'édition (en termes d'éditorialisation) est d'ajouter une ann
 Il s'agira aussi, 
 
 
-## Principes éditoriaux
-Droits d'auteur
-Nommage des chants
-
 ### Ecodage TEI
 Avant de commencer l'encodage, il a fallut faire différents choix. Premièrement, j'ai du choisir la structure générale. Je pensais d'abord partir sur un structure de corpus, regroupant plusieurs chansons indépendantes. Cependant, après réflexion, je me suis rendu compte que une strucutre avec des divisons de groupe suffisait pour mon édition. De cette manière, j'ai un seul "header" pour toutes les chansons, ce qui dans mon cas fonctionne, car elles ont été rassemblées dans un ouvrage par une seule personne. Je n'ai donc pas de métadonnées propre à chaque chant. 
