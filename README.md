@@ -9,7 +9,7 @@
  ## Liens
  Ici vous trouverez les liens vers les différentes pages de mon Github. 
  
- [Page d'accueil de mon édition](tei_hn1_travail-1/index.html)
+ [Page d'accueil de mon édition](tei_hn1_travail-1/docs/index.html)
  <p><a href="tei_hn1_travail-1/index.html"> Page d'accueil de mon édition </a></p>
  <p><a href="tei_hn1_travail-1/documentation/projet_edition.md"> Mon projet d'édition </a></p>
  <p><a href="tei_hn1_travail-1/documentation/exploration_x_path.md"> Mes exploration X-path </a></p>
