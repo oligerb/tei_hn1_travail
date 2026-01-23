@@ -5,7 +5,7 @@ Ce projet d'édition s'inscrit dans le cadre du cours "Éditions de texte : intr
 
 Mon projet vise à transformer en TEI et à annoter un extrait de chansons françaises et canadiennes anciennes sortant du livre "La lyre canadienne : répertoire des meilleureds chansons et romances du jour" de Joseph Lenoir-Rolland sous son pseudonyme "Un amateur", publié en 1847. Pour ce faire, j'ai utiliser les versions numériques trouvées dans "fonds de données linguistiques du Québec".
 
-Le finalité de l'édition (en termes d'éditorialisation) est d'ajouter une annotation sémantique aux textes permettant au public de découvrir plus facilement leur contentu. J'ai pour cela choisi 3 thèmes; L'amour, la nature et XX. Grace à la balise "seg ana" j'ai pu mettre en avant tout les passages traitant de ses thèmes. 
+Le finalité de l'édition (en termes d'éditorialisation) est d'ajouter une annotation sémantique aux textes permettant au public de découvrir plus facilement leur contentu. J'ai pour cela choisi 3 thèmes; L'amour, la nature et la douleur. Grace à la balise "seg ana" j'ai pu mettre en avant tout les passages traitant de ses thèmes. J'ai également annoté chaque ligne avec la balise "l" à l'intéreieur du groupe "lg". 
 
 Il s'agira aussi, 
 
