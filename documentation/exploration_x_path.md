@@ -25,5 +25,6 @@ DOULEUR
 }</ul>
 
 
-Pour ??
+Pour sortir les thèmes utilisés:
+
 for $theme in //interpGrp[@type="themes"]/interp let $id := concat("#", $theme/@xml:id) return <details> <summary>{string($theme)}</summary> <ul> { for $s in //seg[@ana = $id] return <li>{string($s)}</li> } </ul> </details>
