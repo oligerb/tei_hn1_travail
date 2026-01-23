@@ -2,7 +2,7 @@ Sur cette page, vous trouvez quelques requêtes X path effectuées dans le logic
 
 # Pour sortir les thèmes utilisés:
 
-```for $theme in //interpGrp[@type="themes"]/interp let $id := concat("#", $theme/@xml:id) return <details> <summary>{string($theme)}</summary> <ul> { for $s in //seg[@ana = $id] return <li>{string($s)}</li> } </ul> </details> 
+``` for $theme in //interpGrp[@type="themes"]/interp let $id := concat("#", $theme/@xml:id) return <details> <summary>{string($theme)}</summary> <ul> { for $s in //seg[@ana = $id] return <li>{string($s)}</li> } </ul> </details> 
 ```
 
 # Pour sortir les éléments de mes balises:
@@ -18,7 +18,7 @@ NATURE
 
 AMOUR
 
-```<ul>
+``` <ul>
 {
  for $amo in //seg[@ana='#AMO']/text()
   return <li>{data($amo)}</li>
