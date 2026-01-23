@@ -11,13 +11,13 @@ Ces chansons proviennent du Fonds de données linguistiques du Québec.
  
  [Page d'accueil de mon édition](https://oligerb.github.io/tei_hn1_travail/#)
 
- [Mon projet d'édition](tei_hn1_travail-1/documentation/projet_edition.md)
+ [Mon projet d'édition](documentation/projet_edition.md)
 
- [Mes explorations X-path](tei_hn1_travail-1/documentation/exploration_x_path.md)
+ [Mes explorations X-path](documentation/exploration_x_path.md)
 
- [L'édition brut](tei_hn1_travail-1/documents_tei/premierdoc.xml)
+ [L'édition brut](documents_tei/premierdoc.xml)
 
- [Page Github d'exercice avec les chasons](https://oligerb.github.io/tei_hn1_exercice/)
+ [Page Github d'exercice avec les chansons](https://oligerb.github.io/tei_hn1_exercice/)
 
 
 
