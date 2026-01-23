@@ -10,12 +10,12 @@
 .title { font-weight: bold; color: rgb(3, 55, 31); } ul { margin-left: 20px; } a { color: rgb(3, 55, 31); text-decoration: none; } a:hover { text-decoration: underline; } </style> 
 </head> 
 
-<p>Index des chansons</p>
-<p>Index des thèmes</p>
-<p>Source</p>
+<ul>
+<p><li>Index des chansons</li></p>
+<p><li>Index des thèmes</li></p>
+<p><li>Source</li></p>
+</ul>
 <body>
-
-<ul><li id="c1"/><li id="c2"/>//head<li id="c3"/><li id="c4"/><li id="c5"/><li id="c6"/><li id="c7"/><li id="c8"/><li id="c9"/><li id="c10"/></ul>
     
 <h2 class="chant">Chants</h2>
     <div>
@@ -37,7 +37,18 @@
     <br />
 
     <h2 class="thèmes">Thèmes</h2>
-    <li></li>
+    
+    <ul> 
+        <li><a href="#" onclick="showTheme('NAT')">Nature</a></li> 
+        <li><a href="#" onclick="showTheme('AMO')">Amour</a></li> 
+        <li><a href="#" onclick="showTheme('DOL')">Douleur</a></li> 
+    </ul> 
+    <div id="results"></div>
+    
+    <li><a href= "<interp xml:id="NAT">Nature</a></li>
+     <li>Amour</li>
+      <li>Douleur</li>
+
     <br />
    
 </body>
