@@ -9,7 +9,7 @@
  ## Liens
  Ici vous trouverez les liens vers les différentes pages de mon Github. 
  
- <p><a href="https://oligerbe.github.io/tei_hn1_travail-1"> Page d'accueil de mon édition </a></p>
+ <p><a href="https://oligerbe.github.io/tei_hn1_travail-1#"> Page d'accueil de mon édition </a></p>
  <p><a href="tei_hn1_travail-1/documentation/projet_edition.md"> Mon projet d'édition </a></p>
  <p><a href="tei_hn1_travail-1/documentation/exploration_x_path.md"> Mes exploration X-path </a></p>
  <p><a href="tei_hn1_travail-1/documents_tei/premierdoc.xml"> L'édition brut </a></p>
